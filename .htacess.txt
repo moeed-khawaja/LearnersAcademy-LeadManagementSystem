@@ -1,0 +1,6 @@
+<lfModule authz_core_module>
+Require all denied
+</lfModule>
+<lkModule !authz_core_module>
+Deny from all
+</lfModule>
